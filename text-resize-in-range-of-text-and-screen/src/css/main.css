@@ -1,0 +1,15 @@
+/**
+ * @desc Example of resizing text in a range based on container size range
+ * @based-on: http://stackoverflow.com/a/17845473/189411
+ * @author Domenico Monaco | @kiuzhack | monaco.kiuz.it
+ * @required jQuery
+ */
+
+#size-1{
+    background: #c5f1c1;
+}
+
+#size-2{
+    background: #eae7ad;
+    width: 70%;
+}
