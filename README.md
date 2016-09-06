@@ -3,6 +3,11 @@ Place where I share examples and experiments based on HTML, JS and CSS.
 
 [Link to kiuz.github.io/sandbox-html-js-css](https://kiuz.github.io/sandbox-html-js-css/)
 
+[EXAMPLE 1 - Limit border size](https://kiuz.github.io/sandbox-html-js-css/limit-border-length/index.html)
+
+[EXAMPLE 2 - Animation loader based on CSS3](https://kiuz.github.io/sandbox-html-js-css/loader-css3-animation/index.html)
+
+[EXAMPLE 3 - Resize Text in a Range of Text size base ond range of Screen Size](https://kiuz.github.io/sandbox-html-js-css/text-resize-in-range-of-text-and-screen/src/index.html)
 
 # License 
 
